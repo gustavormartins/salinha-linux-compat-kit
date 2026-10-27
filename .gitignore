@@ -1,0 +1,6 @@
+# Do not commit proprietary application binaries or local diagnostic output.
+*.AppImage
+*.appimage
+*.log
+core
+core.*
